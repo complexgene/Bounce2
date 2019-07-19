@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bounce_bg"
+    tools:context=".MainActivity">
+
+    <com.ornach.nobobutton.NoboButton
+        android:id="@+id/btnMissingBounce"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="170dp"
+        android:padding="15dp"
+        app:nb_textSize="18dp"
+        app:nb_textStyle="bold"
+        android:layout_marginBottom="20dp"
+        app:nb_text="Missing Bounce Here"
+        app:nb_borderColor="#FFFFFF"
+        app:nb_borderWidth="0dp"
+        app:nb_backgroundColor="#E65100"
+        app:nb_focusColor="#B83CC3"
+        app:nb_textColor="#FFF"
+        app:nb_radius="15dp"/>
+
+</RelativeLayout>
