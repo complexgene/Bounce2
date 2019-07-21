@@ -7,3 +7,6 @@ Things that are done:
      the simulation would start up.
 Things that are NOT Done:
      No actual map implmentation has been done as the idea is not focussed on that rather the look and the required part.
+     
+Check this Wiki for more details:
+https://github.com/complexgene/Bounce2/wiki/Missing-Bounce-Here-Abstract
