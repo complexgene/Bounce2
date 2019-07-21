@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bounce2</string>
+    <string name="GPSAlertDialogTitle">GPS Alert Dialog Title</string>
+    <string name="GPSAlertDialogMessage">GPSAlertDialogMessage</string>
+    <string name="action_settings">actin_settings</string>
+    <string name="cancel">Cancel</string>
 </resources>
